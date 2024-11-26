@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ejercicio01Examen01</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="distancia_main">Distancia</string>
+    <string name="unidad_destino_main">Unidad de destino</string>
+    <string name="vueltas_de_nube_voladora">vueltas de nube voladora</string>
+    <string name="saltos_instant_neos">saltos instantáneos</string>
+    <string name="zenkai_metros">zenkai-metros</string>
+    <string name="distancia">DISTANCIA</string>
+    <string name="destino">DESTINO</string>
+    <string name="resultado">RESULTADO</string>
+</resources>
